@@ -1,2 +1,10 @@
 ignored_file.txt
 ignored_pushed_file.txt
+
+
+
+
+
+
+# ignored but pushed
+!ignored_pushed_file.txt
